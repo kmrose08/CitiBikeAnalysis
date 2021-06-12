@@ -1,0 +1,10 @@
+CitiBike data was compared for the months of April through September for years 2018 and 2019. The spring and summer months were selected because of the increase use of CitiBike during those months, likely due to the warmer weather.
+
+The most popular destination station in Spring/Summer of 2018 was 12 Ave & W 40 St. In Spring/Summer of 2019, Pershing Square North took the top spot. 
+
+It is important for a business to understand its customer base. CitiBike has two categories of clients: Subscriber and Customer. A Customer is defined as someone who purchases a 24-hour pass or 3-day pass. A Subscriber is an annual member.
+
+In Spring 2018, CitiBike had over 207,000 female Customers. That number grew to over 209,000 by 2019. The number of male Customers also increased from 335,000 in 2018 to over 354,000 in 2019.
+
+In Spring 2018, CitiBike had over 2.3 million female Subscribers and over 6.8 million male Subscribers. In 2019 the number of both male and female Subscribers decreased. Without additional investigation or data, it's unclear why the drop in Subscribers. However, given the increase in Customers during the same time period, it's possible that some Subscribers dropped their subscription in lieu for pay-as-you go use.
+
